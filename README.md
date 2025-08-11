@@ -10,7 +10,7 @@ This repo contains the raw data and the final dashboard used to analyze how many
 2. **Data transformation:** Cleaning, normalization, role parsing, and preparation for visualization.  
 3. **Visualization:** Interactive Excel dashboard with slicers, filters and charts.
 
-## Key Insights (examples)
+## Key Insights
 - Product Management and Data Analytics are the most commonly targeted non-tech roles.
 - Students from top IITs show higher exposure to non-tech profiles.
 
