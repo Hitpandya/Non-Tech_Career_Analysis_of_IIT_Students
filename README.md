@@ -15,6 +15,5 @@ This repo contains the raw data and the final dashboard used to analyze how many
 - Students from top IITs show higher exposure to non-tech profiles.
 
 ## Files
-- `data/` — raw and cleaned datasets (CSV).  
-
+- `Dashboard.MP4` — small demo video how dashboard look like.  
 - `README.md` — this file.
